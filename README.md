@@ -8,4 +8,4 @@ This web application is to help the users to improve their sleep by providing cu
   5. Reminder
   6. Goal Tracker
 
-Website: https://sleep-plus.herokuapp.com/home.php?
+Website: https://sleep-plus.herokuapp.com/home.php
