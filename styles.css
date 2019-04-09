@@ -1,0 +1,147 @@
+body {
+    background-color: #000833;
+    color: white;
+    font-family: Allerta;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+.title {
+    text-align: center;
+}
+.content {
+    margin: auto;
+    width: 60%;
+    background: #242E66;
+}
+
+.button {
+    border: solid;
+    border-radius: 40%;
+    color: #000105;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    font-size: 16px;
+    margin: auto;
+}
+
+ul {
+	font-size: 18px;
+	margin: 10px;
+	padding: 0px;
+}
+
+li {
+	margin: 0 0 10px 12px;
+}
+
+
+h1 {
+	font-family: Allerta;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Allerta;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Allerta;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+blockquote {
+	font-family: Allerta;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Allerta;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+
+.goalContainer {
+	margin-top: 20px;
+	height: 150px;
+}
+
+.metaGoalContainer {
+	height: 25px;
+}
+.smallGoalContainer {
+	height: 25px;
+	margin-top: 10px;
+}
+
+.metaGoalIcon {
+	height: 25px;
+	width:5%;
+	background-color: #000833;
+	float: left;
+	border: 1px solid white;
+
+}
+
+.metaGoalText {
+	width:90%;
+	height: 25px;
+	float: left;
+	font-size: 20px;
+	padding-left: 5px;
+}
+
+.smallGoalIcon {
+	width: 5%;
+	height: 25px;
+	background-color: #000833;
+	float: left;
+	border: 1px solid white;
+}
+
+.smallGoalText {
+	width: 90%;
+	height: 25px;
+	float: left;
+	padding-left: 15px;
+}
+
+.completed {
+	background-color: #FFC107;
+}
+
+#outerBar{
+    height: 25px;
+    width: 500px;
+    border: solid 1px #000;
+    background-color: #C5CAE9;
+    margin: 0 auto;
+}
+#innerBar{
+    height: 25px;
+    width: 0%;
+    background-color: #3949AB;
+}
